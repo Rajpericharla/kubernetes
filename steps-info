@@ -1,3 +1,8 @@
+kubectl api-versions
+kubectl api-versions | grep -E "^apps/"
+kubectl explain deployment
+kubectl api-resources
+
 https://github.com/rieckpil/blog-tutorials/tree/master/deploy-spring-boot-to-local-k8s
 
 https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
