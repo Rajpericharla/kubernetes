@@ -1,5 +1,7 @@
 https://github.com/rieckpil/blog-tutorials/tree/master/deploy-spring-boot-to-local-k8s
 
+https://www.katacoda.com/courses/kubernetes/creating-kubernetes-yaml-definitions
+
 kubectl delete -f deployment.yaml
 kubectl apply -f deployment.yaml
 
