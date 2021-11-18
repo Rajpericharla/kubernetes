@@ -8,4 +8,4 @@ kubectl apply -f deployment.yaml
 kubectl get svc
 kubectl describe svc spring-boot-app
 
-curl host01:8081/api/messages
+curl host01:30001/api/messages
