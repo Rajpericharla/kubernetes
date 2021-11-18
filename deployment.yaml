@@ -1,6 +1,6 @@
 # This is your Editor pane.
-kind: Deployment
 apiVersion: apps/v1
+kind: Deployment
 metadata:
   name: spring-boot-app
 spec:
